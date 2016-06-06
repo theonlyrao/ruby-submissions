@@ -13,7 +13,7 @@
   Repo: 
 
 ### Ashwin Rao
-  Repo: 
+  Repo: https://github.com/theonlyrao/module_3_diagnostic
 
 ### Chad Ellison
   Repo: 
